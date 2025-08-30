@@ -61,23 +61,18 @@ Aplikasi berjalan **offline & portabel**, dapat dijalankan langsung dari laptop 
 ---
 
 ## 🔧 Cara Menjalankan
-1) Clone repo  
-```bash
-git clone https://github.com/<USERNAME>/PTMIPDocsApp.git
-cd PTMIPDocsApp
+1) Clone repo
+   
+               git clone https://github.com/<USERNAME>/PTMIPDocsApp.git cd PTMIPDocsApp
 
 2) Install dependency
-```bash
-npm install
+
+               npm install
 
 3) Jalankan aplikasi
-```bash
-npm start
 
-!Catatan: Pastikan node & npm sudah terpasang. Script "start": "electron ." ada di package.json.
+               npm start
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 
 
