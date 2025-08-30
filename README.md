@@ -76,6 +76,8 @@ npm start
 
 !Catatan: Pastikan node & npm sudah terpasang. Script "start": "electron ." ada di package.json.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 
 
